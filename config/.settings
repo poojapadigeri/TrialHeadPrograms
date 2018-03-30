@@ -1,0 +1,27 @@
+{
+    "projectName": "TrialHeadPrograms",
+    "username": "pooja@cloudlendinginc.com",
+    "id": "89712c30-33db-11e8-9760-3356e13ca013",
+    "namespace": "",
+    "environment": "production",
+    "loginUrl": "https://login.salesforce.com/",
+    "workspace": "C:\\Users\\Pooja Bhat\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "CustomLabels",
+        "CustomMetadata",
+        "CustomObject",
+        "Dashboard",
+        "Flow",
+        "Layout",
+        "MatchingRules",
+        "Report",
+        "ReportType",
+        "Role",
+        "StaticResource",
+        "Workflow"
+    ]
+}
